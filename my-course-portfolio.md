@@ -6,7 +6,7 @@
 - Name: Taishi
 - Major: Computer Programming
 - Year: 1st Year
-- Favorite Programming Language: NO IDEA...
+- Favorite Programming Language: NO IDEA.....
 
 ## Course Goals
 - [ ] I want to be confident using Git and GitHub for version control
