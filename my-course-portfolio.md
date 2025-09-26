@@ -1,4 +1,4 @@
-# A way long journey to a programmer
+# My Course Portfolio
 
 ## Hello everyone, Welcome to my CEP146 Repo 
 
