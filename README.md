@@ -1,18 +1,17 @@
 # My Course Portfolio
 
-Welcome to my academic portfolio for [Course Name]!
+## Hello everyone, Welcome to my CEP146 Repo 
 
 ## About Me
-- Name: [Taishi Yamashita]
-- Major: [Computer Programming]
-- Year: [1st year]
-- Favorite Programming Language: [C language]
+- Name: Taishi
+- Major: Computer Programming
+- Year: 1st Year
+- Favorite Programming Language: NO IDEA.....
 
 ## Course Goals
-- [ ] Learn version control with Git and GitHub
-- [ ] Complete all lab assignments
-- [ ] Build a professional portfolio
-- [ ] Collaborate on group projects
-
+- [ ] I want to be confident using Git and GitHub for version control
+- [ ] Complete all lab assignments on time (I hope...)
+- [ ] Collaborate effectively with my group member on group projects
+      
 ## Projects
-*This section will be updated as I complete assignments*
+*Hope this section will be updated.*
